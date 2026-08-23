@@ -130,9 +130,16 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 ## Output screen shots of serial port utility   :
  
- 
+ <img width="1917" height="893" alt="Screenshot 2026-08-06 120340" src="https://github.com/user-attachments/assets/072613f3-c07f-4d2d-9cb2-993867c9f275" />
+
+ <img width="1911" height="1037" alt="Screenshot 2026-07-31 154743" src="https://github.com/user-attachments/assets/b2b232fb-9732-485f-aa77-b7192c652680" />
+
+
  ## Circuit board :
- 
+ <img width="960" height="1280" alt="WhatsApp Image 2026-08-14 at 10 24 15 AM" src="https://github.com/user-attachments/assets/73b6f16a-3bc6-41c2-ae99-b5c419c693a6" />
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-14 at 10 24 16 AM" src="https://github.com/user-attachments/assets/d80b3818-75b6-4469-aa75-68dcf17d3c2e" />
+
  
  
 ## Result :
