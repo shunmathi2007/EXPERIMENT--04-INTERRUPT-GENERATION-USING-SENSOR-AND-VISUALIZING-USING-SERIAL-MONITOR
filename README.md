@@ -701,7 +701,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
  ```
-
 ## Output screen shots of serial port utility   :
  EXP-4a
  <img width="1917" height="893" alt="Screenshot 2026-08-06 120340" src="https://github.com/user-attachments/assets/072613f3-c07f-4d2d-9cb2-993867c9f275" />
